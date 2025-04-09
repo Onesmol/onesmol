@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👨‍💻 Onesmus Nkhoma
 
-<!--
-**Onesmol/onesmol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**System Analyst | Tech Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+📧 Email: nkhomaonesmus@gmail.com  
+💼 Role: System Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+Hello! I'm Onesmus Nkhoma, a passionate System Analyst with a strong focus on designing efficient systems, analyzing workflows, and delivering data-driven solutions. I specialize in aligning business goals with IT solutions, ensuring optimized performance and reliability.
+
+---
+
+## 🛠️ Skills
+- Systems Design & Analysis  
+- Requirements Gathering  
+- Data Modeling & Workflow Diagrams  
+- SQL & Relational Databases  
+- Business Intelligence Tools  
+- Technical Documentation  
+
+---
+
+## 📂 Projects
+
+| Project Name | Description |
+|--------------|-------------|
+| **Inventory System Audit** | Automated audit tool for stock tracking and reporting. |
+| **Workflow Optimization** | Improved internal processes for a finance department, reducing data redundancy by 40%. |
+
+---
+
+## 🌱 Currently Learning
+- Cloud Architecture (AWS, Azure)
+- Advanced Business Process Modeling (BPMN)
+
+---
+
+## 📫 Connect with Me
+Feel free to reach out via email or connect on GitHub.
